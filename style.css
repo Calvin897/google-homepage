@@ -1,0 +1,187 @@
+.background {
+  
+    height: 100vh;
+    width: 100vw;
+    background-color: #fff;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+body {
+    margin: 0;
+}
+
+.logo_image {
+
+    align-items: center;
+
+}
+
+
+.input-form {
+    height: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    
+
+}
+
+.input {
+    height: 44px;
+    width: 582px;
+    border-radius: 25px;
+    margin-bottom: 18px;
+    padding: 0 1rem;
+    outline: 0;
+
+
+}
+
+.google_doodle {
+    height: 92px;
+    width: 272px;
+}
+
+.button_1 {
+    height: 36px;
+    min-width: 54px;
+    border-radius: 4px;
+    background-color: #f1ededec;;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    border: 1px solid #f8f9fa;
+    color: #3c4043;
+
+   
+}
+
+
+.button_2 {
+    height: 36px;
+    min-width: 54px;
+    border-radius: 4px;
+    background-color: #f1ededec;;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    border: 1px solid #f1f9fa;
+    color: #3c4043;
+  
+}
+
+.language_options {
+    font-family: arial,sans-serif;
+    color: #222;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+
+.navbar {
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: flex-end;
+    float: right;
+    position: absolute;
+    top: 1rem;
+    left: 0rem;
+}
+
+.gmail {
+    padding-right: 5px;
+    font-family: arial,sans-serif;
+}
+
+.images {
+    padding-right: 5px;
+    font-family: arial,sans-serif;
+}
+
+.email_icon {
+    margin-right: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+.navbar_bottom_left {
+display: flex;
+justify-content: flex-space-around;
+position: absolute;
+bottom: 2rem;
+left: 2rem;
+background-color: #f2f2f2;
+}
+
+.about {
+padding-right: 12px;
+font-family: arial,sans-serif;
+}
+
+.advertising {
+padding-right: 12px;
+font-family: arial,sans-serif;
+}
+
+
+.images {
+padding-right: 12px;
+font-family: arial,sans-serif;
+}
+
+.business {
+padding-right: 12px;
+font-family: arial,sans-serif;
+}
+
+.how_search_works {
+padding-right: 12px;
+font-family: arial,sans-serif;
+}
+
+.navbar_bottom {
+display: flex;
+justify-content: space-between;
+align-items: center;
+position: absolute;
+bottom: 0rem;
+right: 0rem;
+background-color: #f2f2f2;
+width: 100%;
+height: 2rem;
+padding: 1rem 0;
+}
+
+.privacy {
+padding-right: 12px;
+font-family: arial,sans-serif;  
+}
+
+.terms {
+padding-right: 12px;
+font-family: arial,sans-serif; 
+}
+
+.settings {
+padding-right: 12px;
+font-family: arial,sans-serif;  
+}
+
+.flex-basic {
+    display: flex;
+    align-items: ;
+}
+
+.nav_text {
+    margin-right: 1rem;
+    font-family: arial,sans-serif;
+}
